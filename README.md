@@ -124,7 +124,8 @@ A detailed project walkthrough is available as a PowerPoint presentation, coveri
 - Model evaluation
 - Retention strategy design
 
-📎 See: `presentation/customer_churn_detection.pdf
+ **[see : (PDF)](presentation/customer_churn_detection.pdf)**
+
 
 
 ## 💡 Key Takeaways
