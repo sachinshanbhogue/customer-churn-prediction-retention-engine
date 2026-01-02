@@ -94,19 +94,38 @@ This ensures **marketing budget optimization** and targeted intervention.
 
 ## 🧩 System Architecture
 Customer Transactions
-↓
+    ↓
 Feature Engineering (RFM + Returns)
-↓
+    ↓
 Logistic Regression Model
-↓
+    ↓
 Churn Probability
-↓
+    ↓
 Retention Decision Engine
-↓
+    ↓
 Business Action
 
 
 ---
+## 📊 Business Outputs & Presentation
+
+### Retention Decision Output
+A final customer-level output was generated containing churn probability and recommended retention action.  
+This output is designed for direct use by marketing and retention teams.
+
+![Retention Decision Preview](business assets/retention_decisions_preview.png)
+
+### Project Walkthrough Presentation
+A detailed project walkthrough is available as a PowerPoint presentation, covering:
+- Problem framing
+- Churn definition
+- Data leakage prevention
+- Feature engineering
+- Model evaluation
+- Retention strategy design
+
+📎 See: `presentation/customer_churn_retention.pdf
+
 
 ## 💡 Key Takeaways
 - Demonstrates **real-world churn modeling**
