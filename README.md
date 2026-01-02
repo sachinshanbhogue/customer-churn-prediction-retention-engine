@@ -115,6 +115,7 @@ This output is designed for direct use by marketing and retention teams.
 
 ![Retention Decision Preview](business_asset/retention_decisions_preview.png)
 
+
 ### Project Walkthrough Presentation
 A detailed project walkthrough is available as a PowerPoint presentation, covering:
 - Problem framing
@@ -126,10 +127,12 @@ A detailed project walkthrough is available as a PowerPoint presentation, coveri
 
  **[see presentation : (PDF)](presentation/customer_churn_detection.pdf)**
 
+
 ## 📓 Notebook Walkthrough
 The complete analysis and modeling workflow is available in a Jupyter Notebook:
 
- `notebooks/churn_modeling.ipynb`
+ `notebook/churn_modeling.ipynb`
+
 
 ## 💡 Key Takeaways
 - Demonstrates **real-world churn modeling**
