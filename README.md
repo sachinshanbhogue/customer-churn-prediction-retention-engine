@@ -144,6 +144,4 @@ The complete analysis and modeling workflow is available in a Jupyter Notebook:
 
 ## 🚀 Future Improvements
 - Cost–benefit optimization for retention offers
-- Model calibration and uplift modeling
-- Campaign impact simulation
 
