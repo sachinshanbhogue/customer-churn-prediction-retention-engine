@@ -113,7 +113,7 @@ Business Action
 A final customer-level output was generated containing churn probability and recommended retention action.  
 This output is designed for direct use by marketing and retention teams.
 
-![Retention Decision Preview]([business asset]/retention_decisions_preview.png)
+![Retention Decision Preview](business_asset/retention_decisions_preview.png)
 
 ### Project Walkthrough Presentation
 A detailed project walkthrough is available as a PowerPoint presentation, covering:
@@ -124,7 +124,7 @@ A detailed project walkthrough is available as a PowerPoint presentation, coveri
 - Model evaluation
 - Retention strategy design
 
-📎 See: `presentation/customer_churn_retention.pdf
+📎 See: `presentation/customer_churn_detection.pdf
 
 
 ## 💡 Key Takeaways
